@@ -1,6 +1,6 @@
 # Deep Learning Specialization &mdash; Andrew NG
 
-![deeplearning.ai logo](https://github.com/[oakhtar147]/[deep-learning-specialization]/blob/[master]/logo.png?raw=true)
+![deeplearning.ai logo](https://github.com/oakhtar147/deep-learning-specialization/blob/master/logo.png?raw=true) 
 
 ## This specialization consists of five courses:
 
